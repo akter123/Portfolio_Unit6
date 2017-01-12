@@ -5,19 +5,20 @@
       color: white;
     }
     .nav {
-      color: white;
+      color: blue;
     }
     h1 {
-      font-size: 70px;
+      font-size: 50px;
+      color:Crimson;
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      margin: 7px 30px 30px 20px;
+      border: 7px solid Chocolate;
+      border-radius: 40px;
     }
     ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
+      padding: 30px;
+      background: rgba(255, 0, 0, 0.8);
     }
     li {
       display: inline;
@@ -34,7 +35,7 @@
         padding: 5px;
       }
       li {
-        padding: 5px;
+        padding: 10px;
         display: block;
       }
     }
